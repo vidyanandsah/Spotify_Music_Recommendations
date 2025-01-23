@@ -8,4 +8,4 @@
 #### • Trained shallow and deep neural networks for high-accuracy classification and preference prediction
 
 #### • Utilized regression techniques and unsupervised learning methods (K-means) to predict user ratings, 
-####   song enjoyment probabilities, and enhance recommendation quality
+####     song enjoyment probabilities, and enhance recommendation quality
